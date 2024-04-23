@@ -16,4 +16,4 @@ npm run gen
 
 ## Motivation
 
-I always make a bibliography from UI design to get the components structure right. But to create those files by hand takes too much of the time. So I needed a solution to reduce the time of creating component files.
+I always create a bibliography for UI design to ensure the correct structure of components. However, manually creating these files takes up too much time. Therefore, I needed a solution to reduce the time spent on creating component files.
